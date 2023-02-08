@@ -1,23 +1,36 @@
-header{
+header {
     background-color: aquamarine;
 }
-h2{
+
+h2 {
     background-color: blueviolet;
-    color:khaki;
+    color: khaki;
     text-align: center;
 }
-h3{
+
+h3 {
     background-color: cadetblue;
     color: deeppink;
     text-align: center;
 }
+
 img {
     width: 500px;
     height: auto;
 }
+
 .center {
-    display:block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    width:50%;
+    width: 50%;
+}
+
+.info{
+    border: 1px;
+    border-style: solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 25px;
+    padding: 5px;
 }
